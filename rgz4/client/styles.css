@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+progress {
+    margin: 20px 0;
+    display: block;
+    width: 100%;
+}
+
+#report {
+    margin-top: 20px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
